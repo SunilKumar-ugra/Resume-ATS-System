@@ -36,7 +36,9 @@ http://localhost:8501 #Open this url in the browser
 ```
 
 # Demo
-![1](https://github.com/SunilKumar-ugra/Invoice-Extractor-LLM-APP/assets/45965583/d1416852-2867-4cc4-a7e2-9f66198e4607)
+![image](https://github.com/SunilKumar-ugra/Resume-ATS-System/assets/45965583/0b614df3-478c-43ec-926d-55b70bce598c)
+![image](https://github.com/SunilKumar-ugra/Resume-ATS-System/assets/45965583/0a86919a-6faf-496f-8c56-21ecc2aa8df8)
+
 ![2](https://github.com/SunilKumar-ugra/Invoice-Extractor-LLM-APP/assets/45965583/b16ed7e2-484e-463b-a847-12b799f59bb8)
 ![3](https://github.com/SunilKumar-ugra/Invoice-Extractor-LLM-APP/assets/45965583/1b7951fa-b38c-4ae3-8d96-0b861cdf8aa4)
 
