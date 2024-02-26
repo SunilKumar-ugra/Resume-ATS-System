@@ -1,5 +1,7 @@
 # Resume-ATS-System
 
+Let's dive into the critical world of job applications and the ever-evolving role of Applicant Tracking Systems (ATS) in the hiring process. In today's job market, understanding and optimizing your resume for ATS is no longer optional; it's essential. building an ATS Large Language Application, designed to revolutionize how job seekers craft their resumes.
+
 # How to run?
 ### STEPS:
 
