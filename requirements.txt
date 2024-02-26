@@ -1,4 +1,11 @@
+app
 streamlit
 google-generativeai
 python-dotenv
 pdf2image
+
+##app2
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
